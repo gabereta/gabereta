@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/gabereta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabereta&show_icons=true&theme=dracula&hide=stars,commits,prs,issues,contribs)](https://github.com/gabereta/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabereta&show_icons=true&theme=dracula&hide=stars,commits,prs,issues,contribs>
 </div>
 
 - 🔭 I’m currently working on ...
