@@ -1,11 +1,5 @@
 ## Olá, eu sou Gabriel! 👋
 
-<div>
-  <a href="https://github.com/gabereta">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabereta&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabereta&layout=compact&theme=tokyonight" />
-</div>
-
 💻 Estudante de Tecnologia da Informação  
 🚀 Atualmente estudando programação e desenvolvimento de sistemas  
 📚 Aprendendo C, JavaScript, HTML, CSS, SQL e Git/GitHub  
@@ -34,8 +28,51 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div>
+  <a href="https://github.com/gabereta">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabereta&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabereta&layout=compact&theme=tokyonight" />
 </div>
+
+
+## 📚 Minha jornada
+
+```text
+Programação
+├── C
+│   ├── Variáveis
+│   ├── Funções
+│   ├── Ponteiros
+│   ├── Structs
+│   └── Estruturas de Dados
+│
+├── Web
+│   ├── HTML
+│   ├── CSS
+│   └── JavaScript
+│
+├── Mobile
+│   └── React Native
+│
+├── Banco de Dados
+│   └── SQL
+│
+└── Ferramentas
+    ├── Git
+    └── GitHub
+
+
+Fica interessante visualmente e mostra que você está construindo uma base.
+
+---
+
+### 7. 📫 Onde me encontrar
+
+Se quiser deixar profissional:
+
+```md
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-alves-bereta-131856252)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalvesbereta123@gmail.com)
