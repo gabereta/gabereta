@@ -60,15 +60,7 @@ Programação
 └── Ferramentas
     ├── Git
     └── GitHub
-
-
-Fica interessante visualmente e mostra que você está construindo uma base.
-
----
-
-### 7. 📫 Onde me encontrar
-
-Se quiser deixar profissional:
+```
 
 ```md
 ## 📫 Contato
